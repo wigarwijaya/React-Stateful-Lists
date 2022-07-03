@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Button from "../UI/Button";
-import ErrorModal from "./ErrorModal";
+import ErrorModal from "../UI/ErrorModal";
 
 import Card from "../UI/Card";
 import style from "./AddUser.module.css";
